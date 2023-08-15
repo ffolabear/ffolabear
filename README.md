@@ -14,12 +14,20 @@ Here are some ideas to get you started:
 -->
 
 ## 🐻‍❄️ FFdev 
+> 💻 Java Backend Developer
 ```
-💻 Java Backend Developer
 - 꾸준한 배움을 밑바탕으로 개발역량을 늘리는 것을 목표로 하고 있습니다.
 - 단순히 비즈니스 로직의 동작이 아닌 설계와 코드 가독성, 유지보수를 더 쉽게 할 수 있는 코드에 대해서 고민합니다.
 - 새로운 기술이나 언어를 배우는것을 좋아합니다.
+- 함께 성장하는 것을 추구합니다.
 ```
+
+<br>
+
+## 📞 Contact
+✉️ : ffolabear@gmail.com 
+
+<br>
 
 ## 📚 I'm currently studying...
 <div align=left>
