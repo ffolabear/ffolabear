@@ -43,7 +43,5 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
-
 
 ![rect](https://capsule-render.vercel.app/api?type=soft&color=6d6d6d&text=&fontSize=20&fontColor=ffffff)
