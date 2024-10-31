@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header"/>
+![soft](https://capsule-render.vercel.app/api?type=soft&color=6d6d6d&text=1cm%20떨어지면서%201.5cm%20씩%20성장하는중🌱&fontSize=20&fontColor=ffffff&animation=fadeIn)
+
+
 
 
 ## 🐻‍❄️ FFdev 
@@ -25,10 +27,19 @@ Here are some ideas to get you started:
 - 함께 성장하는 것을 추구합니다.
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffolabear&show_icons=true&theme=vue" witdh height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffolabear&layout=compact" height="170px"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+<div align="center" witdh="800px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffolabear&layout=compact" height="200px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffolabear&theme=slateorange&show_icons=true" height="200px"/>
 </div>
 
-
-
+![rect](https://capsule-render.vercel.app/api?type=soft&color=6d6d6d&text=&fontSize=20&fontColor=ffffff)
