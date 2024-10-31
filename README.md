@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <div align="center" witdh="800px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffolabear&layout=compact" height="170px"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffolabear&theme=slateorange&show_icons=true" height="170px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffolabear&theme=graywhite&show_icons=true" height="170px"/>
 </div>
 
 ![rect](https://capsule-render.vercel.app/api?type=soft&color=6d6d6d&text=&fontSize=20&fontColor=ffffff)
