@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
 ## 🐻‍❄️ FFdev 
 > 💻 Java Backend Developer
 ```
@@ -23,7 +26,7 @@ Here are some ideas to get you started:
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffolabear&show_icons=true&theme=vue" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ffolabear&show_icons=true&theme=vue" witdh height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffolabear&layout=compact" height="170px"/>
 </div>
 
